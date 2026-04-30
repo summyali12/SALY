@@ -2,3 +2,4 @@
 ![image alt](https://github.com/summyali12/SALY/blob/65ce1358e1923c1ddaf210114ddfb984a44ade26/assistant.png)
 ![image alt](https://github.com/summyali12/SALY/blob/64a7a988de2dea13a5f5120dcd329a0fd6ef3119/belgium-chocolate.jpg)
 ![image alt](https://github.com/summyali12/SALY/blob/928326cf8fc4a0006dc48fc7b2749809f6ce3775/choco-crunch.jpg)
+![image alt](https://github.com/summyali12/SALY/blob/17ef3d13cc40a741af9d86e90f8ebfa229ac6bb5/logo-crown.png)
